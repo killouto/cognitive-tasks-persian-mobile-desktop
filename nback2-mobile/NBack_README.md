@@ -4,7 +4,7 @@ This is a translated and technically adapted version of the **2-back working mem
 
 ## Purpose
 
-The 2-back task measures **working memory** and **updating**, requiring participants to respond only when the current stimulus matches the one from two steps earlier.
+The 2-back task measures **working memory**, requiring participants to respond only when the current stimulus matches the one from two steps earlier.
 
 ## Attribution
 
