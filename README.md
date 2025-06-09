@@ -30,6 +30,7 @@ You can import each `.psy` script into your PsyToolkit account or use it as a ba
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
-## Author
+## Attribution
 
-Sepehr Moraghebi – 2025
+This project includes adapted materials from [PsyToolkit.org](https://www.psytoolkit.org/), originally developed by **Gijsbert Stoet, PhD**.  
+Tasks were translated into Persian and adapted for mobile and desktop platforms by **Sepehr Moraghebi**.
