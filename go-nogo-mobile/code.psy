@@ -1,3 +1,6 @@
+options
+  bitmapdir stimuli
+  
 bitmaps
   instructions
   gosignal
